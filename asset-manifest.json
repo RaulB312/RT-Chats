@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rt-chats/static/css/main.bab13ac9.css",
-    "main.js": "/rt-chats/static/js/main.fe36350a.js",
-    "static/js/787.780ba4da.chunk.js": "/rt-chats/static/js/787.780ba4da.chunk.js",
-    "static/media/firefly.mp4": "/rt-chats/static/media/firefly.9694274f3e4137e39900.mp4",
-    "static/media/black-circle.png": "/rt-chats/static/media/black-circle.31b635ca9a71f018507b.png",
-    "static/media/ballon2.png": "/rt-chats/static/media/ballon2.64c708c80d79b9cff67f.png",
-    "index.html": "/rt-chats/index.html",
-    "main.bab13ac9.css.map": "/rt-chats/static/css/main.bab13ac9.css.map",
-    "main.fe36350a.js.map": "/rt-chats/static/js/main.fe36350a.js.map",
-    "787.780ba4da.chunk.js.map": "/rt-chats/static/js/787.780ba4da.chunk.js.map"
+    "main.css": "/RT-Chats/static/css/main.bab13ac9.css",
+    "main.js": "/RT-Chats/static/js/main.a7be008a.js",
+    "static/js/787.780ba4da.chunk.js": "/RT-Chats/static/js/787.780ba4da.chunk.js",
+    "static/media/firefly.mp4": "/RT-Chats/static/media/firefly.9694274f3e4137e39900.mp4",
+    "static/media/black-circle.png": "/RT-Chats/static/media/black-circle.31b635ca9a71f018507b.png",
+    "static/media/ballon2.png": "/RT-Chats/static/media/ballon2.64c708c80d79b9cff67f.png",
+    "index.html": "/RT-Chats/index.html",
+    "main.bab13ac9.css.map": "/RT-Chats/static/css/main.bab13ac9.css.map",
+    "main.a7be008a.js.map": "/RT-Chats/static/js/main.a7be008a.js.map",
+    "787.780ba4da.chunk.js.map": "/RT-Chats/static/js/787.780ba4da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bab13ac9.css",
-    "static/js/main.fe36350a.js"
+    "static/js/main.a7be008a.js"
   ]
 }
